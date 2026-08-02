@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Student-VIT%20Bhopal-00f5d4?style=flat-square&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Java-0a84ff?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-fe4a60?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2nd%20Year%20CSE-a259ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-Pre-final%20Year%20CSE-a259ff?style=flat-square" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=jatinrathor009-netizen&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
