@@ -28,10 +28,10 @@ public class JatinRathor {
 
     static final String NAME     = "Jatin Rathor";
     static final String COLLEGE  = "Vellore Institute of Technology, Bhopal";
-    static final String YEAR     = "2nd Year — Computer Science Engineering";
-    static final String FOCUS    = "Data Structures & Algorithms | Java Development";
+    static final String YEAR     = "Pre-Final year — Computer Science Engineering";
+    static final String FOCUS    = "Data Structures & Algorithms | Full Stack Developer";
 
-    static String[] passions     = { "Problem Solving", "Java Dev", "Web Dev", "Open Source" };
+    static String[] passions     = { "Problem Solving", "Web Dev", "Open Source" };
     static String[] currentGoals = { "Master DSA", "Build real-world projects", "Collaborate & grow" };
     static boolean  available    = true; // Open to internships & collaborations!
 
@@ -43,7 +43,7 @@ public class JatinRathor {
 
 <br/>
 
-- 🎓 &nbsp; 2nd-year **CSE student** at **VIT Bhopal**, sharpening skills every day
+- 🎓 &nbsp; Pre-Final year **CSE student** at **VIT Bhopal**, sharpening skills every day
 - ☕ &nbsp; **Java** is my primary language — clean, typed, and powerful
 - 🧩 &nbsp; Deep-diving into **Data Structures & Algorithms** to crack any problem
 - 🌐 &nbsp; Exploring **Web Development** — from HTML/CSS to Angular
