@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00f5d4&height=200&section=header&text=Jatin%20Rathor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%40%20VIT%20Bhopal%20%7C%20Java%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00f5d4&height=200&section=header&text=Jatin%20Rathor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%40%20VIT%20Bhopal%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey+there!+I%27m+Jatin+%F0%9F%91%8B;CS+Student+%40+VIT+Bhopal+%F0%9F%8F%AB;Java+Developer+%26+Problem+Solver+%E2%98%95;Mastering+DSA%2C+one+problem+at+a+time+%F0%9F%A7%A9;Building+practical+solutions+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey+there!+I%27m+Jatin+%F0%9F%91%8B;CS+Student+%40+VIT+Bhopal+%F0%9F%8F%AB;Full-Stack+Developer+%26+Problem+Solver+%E2%98%95;Mastering+DSA%2C+one+problem+at+a+time+%F0%9F%A7%A9;Building+practical+solutions+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </a>  
 
 <br/>
