@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey+there!+I%27m+Jatin+%F0%9F%91%8B;CS+Student+%40+VIT+Bhopal+%F0%9F%8F%AB;Java+Developer+%26+Problem+Solver+%E2%98%95;Mastering+DSA%2C+one+problem+at+a+time+%F0%9F%A7%A9;Building+practical+solutions+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</a>  
 
 <br/>
 
